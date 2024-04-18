@@ -15,17 +15,17 @@ function Hero() {
 
           <div className="bg-[#344cab]  rounded-full py-2 px-4 my-3">
             <a
-              href="#"
+              href="https://solscan.io/token/7S6i87ZY29bWNbkviR2hyEgRUdojjMzs1fqMSXoe3HHy"
               target="_blank"
               className="asul-bold text-xs sm:text-2xl"
             >
-              Ca:kfhkffmhgbnifsdhjfdmfnkjd
+            7S6i87ZY29bWNbkviR2hyEgRUdojjMzs1fqMSXoe3HHy
             </a>
           </div>
 
           <div className="flex justify-center gap-4 items-center">
             <a
-              href="#"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/DUXstahu6oU1m39LgCmYh9QCSK7q2wrtKPEcv5iRwERD?t=1713463968983"
               target="_blank"
               className="bg-[#344cab]  rounded-full text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black"
             >
