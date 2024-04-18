@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section className=" h-[33vh]  sm:h-[100vh] ">
       <div className=" container-wrapper">
-        <div className=" flex flex-col justify-center items-center pt-[10rem] sm:pt-[13rem]  rounded-3xl">
+        <div className=" flex flex-col justify-center items-center pt-[10rem] sm:pt-[33%]  rounded-3xl">
         
           {/* <img
             src="images/logo.png"
