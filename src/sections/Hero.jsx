@@ -3,9 +3,9 @@ import { FaTelegram } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 function Hero() {
   return (
-    <section className="  h-[100vh]">
+    <section className=" h-[33vh]  sm:h-[100vh] ">
       <div className=" container-wrapper">
-        <div className=" flex flex-col justify-center items-center pt-0 sm:pt-[13rem]  rounded-3xl">
+        <div className=" flex flex-col justify-center items-center pt-[10rem] sm:pt-[13rem]  rounded-3xl">
         
           {/* <img
             src="images/logo.png"
