@@ -34,7 +34,7 @@ function Hero() {
 
             <div className=" flex justify-center gap-4 items-center">
               <a
-                href="https://t.me/trumpsols"
+                href="https://t.me/tbeden"
                 target="_blank"
                 className=" text-5xl "
               >
@@ -42,7 +42,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://twitter.com/Trumphsol"
+                href="https://x.com/bedenvstrump/"
                 target="_blank"
                 className=" text-5xl"
               >
